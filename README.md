@@ -25,8 +25,10 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Languages
 
-- :full_moon: [JavaScript: The Good Parts <sub>reveal a subset of JavaScript that's more reliable, readable, and maintainable</sub>](http://amzn.to/21PwQWK)
-- :star2: [You Don't Know JS <sub>A book series on JavaScript. </sub>](https://github.com/getify/You-Dont-Know-JS
+- :full_moon: [JavaScript: The Good Parts <sub>Reveal a subset of JavaScript that's more reliable, readable, and maintainable</sub>](http://amzn.to/21PwQWK)
+- :star2: [You Don't Know JS <sub>A book series on JavaScript. </sub>](https://github.com/getify/You-Dont-Know-JS)
+- :full_moon: [Effective JavaScript <sub>68 Specific Ways to Harness the Power of JavaScript</sub>](http://amzn.to/1L9EqEn)
+- :full_moon: [Expert JavaScript <sub>Take a deep dive into JavaScript and build better applications</sub>](http://amzn.to/1TkuUAG)
 - :waxing_crescent_moon: [Professional JavaScript for Web Developer <sub>a developer-level introduction along with more advanced and useful features of JavaScript</sub>](http://amzn.to/1Rv6LS5)
 - :new_moon: [Eloquent JavaScript <sub>A Modern Introduction to Programming</sub>](http://amzn.to/1S6VxrX)
 - :new_moon: [Advanced Programming in the UNIX Environment](http://amzn.to/1S6VLiD)
@@ -35,6 +37,13 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Learning Python](http://amzn.to/1S6XiFt)
 - :new_moon: [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
 - :new_moon: [The Art of UNIX Programming](http://amzn.to/1PMISXS)
+- :star2: [Secrets of the JavaScript Ninja <sub>Takes you on a journey towards mastering modern JavaScript development in three phases: design, construction, and maintenance</sub>](http://amzn.to/1L9Ehk6)
+- :star2: [Speaking JavaScript <sub>An in-depth guide for JavaScript programmer</sub>](http://speakingjs.com/es5/index.html)
+- :first_quarter_moon: [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+- :first_quarter_moon: [Exploring ES6 <sub>Upgrade to the next version of JavaScript</sub>](https://leanpub.com/exploring-es6/read)
+- :new_moon: [JavaScript Application Design <sub>A Build First Approach</sub>](http://amzn.to/1L9Et2P)
+- :full_moon: [Human JavaScript <sub>This book will help you build native HTML5 apps</sub>](http://read.humanjavascript.com/)
+- :moon: [Maintainable JavaScript <sub>Some tips on how to effectively work on a team with a large application</sub>](http://amzn.to/1QElCtF)
 
 ## User Experience/Interaction Design/Usability
 
@@ -42,10 +51,16 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Defensive Design for the Web <sub>How to improve error messages, help, forms, and other crisis points</sub>](http://amzn.to/1S6XMeX)
 - :star2: [Don't Make Me Think <sub>A Common Sense Approach to Web Usability</sub>](http://amzn.to/1SD00SB)
 - :full_moon_with_face: [Lean UX <sub>Applying Lean Principles to Improve User Experience</sub>](http://amzn.to/1S6V4WA)
-- :star2: [The Design of Everyday Things](http://amzn.to/1SD0MyZ)
-- :star2: [The Inmates Are Running the Asylum <sub>Why High Tech Products Drive Us Crazy and How to Restore the Sanity</sub>](http://amzn.to/1S6X80P)
+- :full_moon: [The Design of Everyday Things](http://amzn.to/1SD0MyZ)
+- :full_moon: [The Inmates Are Running the Asylum <sub>Why High Tech Products Drive Us Crazy and How to Restore the Sanity</sub>](http://amzn.to/1S6X80P)
 
-## Web Design
+## Product Design
+
+- :new_moon: [Product Design for the Web <sub>Principles of Designing and Releasing Web Products</sub>](http://amzn.to/1M1Xxem)
+- :new_moon: [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
+- :star2: [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
+
+## UX Design
 
 - :new_moon: [Adaptive Web Design <sub>Crafting Rich Experiences with Progressive Enhancement</sub>](http://amzn.to/1SCYY97)
 - :new_moon: [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
@@ -58,7 +73,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Internals
 
-- :new_moon: [CLR via C#](http://amzn.to/1PhSuHf)
+- :star2: [CLR via C#](http://amzn.to/1PhSuHf)
 - :waxing_crescent_moon: [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - :full_moon: [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
 
@@ -71,6 +86,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Refactoring: Improving the Design of Existing Code](http://amzn.to/1S6Z49J)
 - :full_moon: [The Clean Coder <sub>A Code of Conduct for Professional Programmers</sub>](http://amzn.to/1S6YGrH)
 - :star2: [The Pragmatic Programmer <sub>From Journeyman to Master</sub>](http://amzn.to/1S6WZdR)
+- :moon: [Working Effectively with Legacy Code <sub>start-to-finish strategies for working more effectively with large, untested legacy code bases</sub>](http://amzn.to/1YkpDsg)
 
 ## Algorithms
 
@@ -88,11 +104,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
 - :full_moon: [Understanding MySQL Internals](http://amzn.to/1S6WT5P)
 
-## Product Design
-
-- :new_moon: [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
-- :star2: [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
-
 ## Marketing/Sales/Negotiation
 
 - :new_moon: [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](http://amzn.to/1SCZnIs)
@@ -108,6 +119,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Startups/Businesses
 
 - :full_moon: [Rework](http://amzn.to/1SD1coP)
+- :full_moon: [Remote <sub>Office Not Required</sub>](http://amzn.to/1ROogiZ)
 - :new_moon: [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
 - :new_moon: [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
 - :star2: [The Lean Startup <sub>How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</sub>](http://amzn.to/1SD0Qi5)
@@ -126,6 +138,8 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Comics/Casual Reads
 
+- :moon: [如何变得有思想？ <sub>一个敢于说真话的ITer眼中的世界</sub>](http://bit.ly/1OX60iA)
+- :moon: [How to Read a Book <sub>The Classic Guide to Intelligent Reading</sub>](http://amzn.to/1SsVuqb)
 
 ## Novels
 
