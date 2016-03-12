@@ -2,7 +2,7 @@
 
 > :books: A list of physical books I own or want to read.
 
-If you have book recommendations for me, please [create a Pull Request](https://github.com/starandtina/reads/compare) adding a link at the end of [`README`](https://github.com/starandtina/blob/master/README).
+If you have book recommendations for me, please [create a Pull Request](https://github.com/starandtina/reads/compare) adding a link at the end of [`README`](https://github.com/starandtina/reads/blob/master/README.md).
 
 ## Ratings
 
