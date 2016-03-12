@@ -154,6 +154,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='personalities-life'>Personalities/Life Stories</a>
 
+- :new_moon: [The Boy Who Could Change the World: The Writings of Aaron Swartz <sub>In a collection of essays, blog posts and lectures by Aaron Swartz (1986 - 2013) </sub>](http://amzn.to/228zZkC)
 
 ## <a name='comics-casual-reads'>Comics/Casual Reads</a>
 
