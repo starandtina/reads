@@ -163,5 +163,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='novels'>Novels</a>
 
-- :waxing_crescent_moon: [解忧杂货店 <sub>现代人内心流失的东西，这家杂货店能帮你找回</sub>](http://dwz.cn/2T5UpP)
+- :full_moon: [解忧杂货店 <sub>现代人内心流失的东西，这家杂货店能帮你找回</sub>](http://dwz.cn/2T5UpP)
+- :full_moon: [嫌疑人X的献身 <sub>爱情的极致应如是</sub>](http://dwz.cn/2Z1zwZ)
+- :full_moon: [恶意 <sub>一直以为，知道了凶手是方便，推理小说也就结束了，《恶意》彻底颠覆了这一观念</sub>](http://dwz.cn/2Z1xsy)
 
