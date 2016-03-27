@@ -44,6 +44,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :star2: [Web Performance Daybook Volume 2 <sub>32 leading web performance experts offer practical tips, techniques, and advice for optimizing your site’s user experience</sub>](http://amzn.to/21SDmIT)
 - :full_moon: [Using WebPageTest <sub>Web Performance Testing for Novices and Power Users</sub>](http://amzn.to/1L95y6f)
 - :new_moon: [Book of Speed <sub>The business, psychology and technology of high-performance web apps</sub>](http://bit.ly/1QuSAyG)
+- :full_moon: [High performance HTML <sub>How to write clean, concise HTML that enables you to create content that loads fast and works well across a variety of devices</sub>](http://bit.ly/1Pys8jF)
 
 ## <a name='languages'>Languages</a>
 
