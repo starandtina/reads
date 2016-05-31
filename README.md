@@ -18,7 +18,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   1. [Languages](#languages)
   1. [User Experience/Interaction Design/Usability](#ux)
   1. [Product Design](#product-design)
-  1. [Art/Design](#art-design)
+  1. [Art Design](#art-design)
   1. [Internals](#internals)
   1. [Development Philosophy](#development-philosohpy)
   1. [Algorithms](#algos)
@@ -107,6 +107,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [The Clean Coder <sub>A Code of Conduct for Professional Programmers</sub>](http://amzn.to/1S6YGrH)
 - :star2: [The Pragmatic Programmer <sub>From Journeyman to Master</sub>](http://amzn.to/1S6WZdR)
 - :moon: [Working Effectively with Legacy Code <sub>start-to-finish strategies for working more effectively with large, untested legacy code bases</sub>](http://amzn.to/1YkpDsg)
+- :star2: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## <a name='algos'>Algorithms</a>
 
