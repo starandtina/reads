@@ -45,6 +45,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Using WebPageTest <sub>Web Performance Testing for Novices and Power Users</sub>](http://amzn.to/1L95y6f)
 - :new_moon: [Book of Speed <sub>The business, psychology and technology of high-performance web apps</sub>](http://bit.ly/1QuSAyG)
 - :full_moon: [High performance HTML <sub>How to write clean, concise HTML that enables you to create content that loads fast and works well across a variety of devices</sub>](http://bit.ly/1Pys8jF)
+- :star2: [Thoughtful CSS Architecture <sub>An introduction to CSS architecture that will help you design a structure for your code so your projects and teams can grow without becoming an unmanageable mess.</sub>](https://seesparkbox.com/foundry/thoughtful_css_architecture)
 
 ## <a name='languages'>Languages</a>
 
