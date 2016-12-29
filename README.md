@@ -16,6 +16,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
   1. [Web Performance](#wpo)
   1. [Languages](#languages)
+  1. [React](#react)
   1. [User Experience/Interaction Design/Usability](#ux)
   1. [Product Design](#product-design)
   1. [Art Design](#art-design)
@@ -69,6 +70,11 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Human JavaScript <sub>This book will help you build native HTML5 apps</sub>](http://read.humanjavascript.com/)
 - :moon: [Maintainable JavaScript <sub>Some tips on how to effectively work on a team with a large application</sub>](http://amzn.to/1QElCtF)
 - :first_quarter_moon: [Functional JavaScript <sub>Introducing Functional Programming with Underscore.js</sub>](http://amzn.to/1XAiNlk)
+
+## <a name='react'>React</a>
+
+- :star2: [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.3n1is9sod)
+- :star2: [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.bhg0iefbm)
 
 ## <a name='ux'>User Experience/Interaction Design/Usability</a>
 
