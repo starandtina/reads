@@ -48,6 +48,8 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [High performance HTML <sub>How to write clean, concise HTML that enables you to create content that loads fast and works well across a variety of devices</sub>](http://bit.ly/1Pys8jF)
 - :star2: [Thoughtful CSS Architecture <sub>An introduction to CSS architecture that will help you design a structure for your code so your projects and teams can grow without becoming an unmanageable mess.</sub>](https://seesparkbox.com/foundry/thoughtful_css_architecture)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='languages'>Languages</a>
 
 - :full_moon: [JavaScript: The Good Parts <sub>Reveal a subset of JavaScript that's more reliable, readable, and maintainable</sub>](http://amzn.to/21PwQWK)
@@ -71,10 +73,14 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :moon: [Maintainable JavaScript <sub>Some tips on how to effectively work on a team with a large application</sub>](http://amzn.to/1QElCtF)
 - :first_quarter_moon: [Functional JavaScript <sub>Introducing Functional Programming with Underscore.js</sub>](http://amzn.to/1XAiNlk)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='react'>React</a>
 
 - :star2: [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.3n1is9sod)
 - :star2: [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.bhg0iefbm)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='ux'>User Experience/Interaction Design/Usability</a>
 
@@ -87,11 +93,15 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [The Inmates Are Running the Asylum <sub>Why High Tech Products Drive Us Crazy and How to Restore the Sanity</sub>](http://amzn.to/1S6X80P)
 - :new_moon: [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='product-design'>Product Design</a>
 
 - :new_moon: [Product Design for the Web <sub>Principles of Designing and Releasing Web Products</sub>](http://amzn.to/1M1Xxem)
 - :new_moon: [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
 - :star2: [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='art-design'>Art Design</a>
 
@@ -99,11 +109,15 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [The Accidental Masterpiece <sub>On the Art of Life and Vice Versa</sub>](http://amzn.to/1SCYXSE)
 - :new_moon: [What Are You Looking At? <sub>The Surprising, Shocking, and Sometimes Strange Story of 150 Years of Modern Art</sub>](http://amzn.to/1SCYY90)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='internals'>Internals</a>
 
 - :star2: [CLR via C#](http://amzn.to/1PhSuHf)
 - :waxing_crescent_moon: [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - :full_moon: [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='development-philosohpy'>Development Philosophy</a>
 
@@ -117,6 +131,8 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :moon: [Working Effectively with Legacy Code <sub>start-to-finish strategies for working more effectively with large, untested legacy code bases</sub>](http://amzn.to/1YkpDsg)
 - :star2: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='algos'>Algorithms</a>
 
 - :first_quarter_moon: [Code Complete <sub>A Practical Handbook of Software Construction</sub>](http://amzn.to/1PhS8R3)
@@ -124,14 +140,20 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Head First Design Patterns](http://amzn.to/1S6XaGb)
 - :star2: [Programming Pearls](http://amzn.to/1SD1fRH)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='ai'>AI</a>
 
 - :new_moon: [Programming Collective Intelligence <sub>Building Smart Web 2.0 Applications</sub>](http://amzn.to/1S6WH6L)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='db'>Databases</a>
 
 - :full_moon: [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
 - :full_moon: [Understanding MySQL Internals](http://amzn.to/1S6WT5P)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='marketing-sales-negotiation'>Marketing/Sales/Negotiation</a>
 
@@ -139,11 +161,15 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - :full_moon: [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='thinking'>On Thinking</a>
 
 - :new_moon: [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
 - :new_moon: [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - :star2: [Thinking, Fast and Slow](http://amzn.to/1SCZOm6)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='startups-businesses'>Startups/Businesses</a>
 
@@ -155,6 +181,8 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](http://amzn.to/1SCZTX1)
 - :star2: [Zero to One <sub>Notes on Startups, or How to Build the Future</sub>](http://amzn.to/1S6Va0y)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='teamwork'>Teamwork</a>
 
 - :new_moon: [Peopleware <sub>Productive Projects and Teams</sub>](http://amzn.to/1SD1j3S)
@@ -162,14 +190,20 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](http://amzn.to/1PhScjL)
 - :star2: [Team Geek <sub>A Software Developer's Guide to Working Well with Others</sub>](http://amzn.to/1QuU7F2)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## <a name='personalities-life'>Personalities/Life Stories</a>
 
 - :new_moon: [The Boy Who Could Change the World: The Writings of Aaron Swartz <sub>In a collection of essays, blog posts and lectures by Aaron Swartz (1986 - 2013) </sub>](http://amzn.to/228zZkC)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='comics-casual-reads'>Comics/Casual Reads</a>
 
 - :moon: [如何变得有思想？ <sub>一个敢于说真话的ITer眼中的世界</sub>](http://bit.ly/1OX60iA)
 - :moon: [How to Read a Book <sub>The Classic Guide to Intelligent Reading</sub>](http://amzn.to/1SsVuqb)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## <a name='novels'>Novels</a>
 
@@ -177,3 +211,4 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [嫌疑人X的献身 <sub>爱情的极致应如是</sub>](http://dwz.cn/2Z1zwZ)
 - :full_moon: [恶意 <sub>一直以为，知道了凶手是方便，推理小说也就结束了，《恶意》彻底颠覆了这一观念</sub>](http://dwz.cn/2Z1xsy)
 
+**[⬆ back to top](#table-of-contents)**
