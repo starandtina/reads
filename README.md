@@ -73,6 +73,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :moon: [Maintainable JavaScript <sub>Some tips on how to effectively work on a team with a large application</sub>](http://amzn.to/1QElCtF)
 - :first_quarter_moon: [Functional JavaScript <sub>Introducing Functional Programming with Underscore.js</sub>](http://amzn.to/1XAiNlk)
 - :star2: [Why is viewport in a meta tag?](http://bit.ly/2iOEBrA)
+- :star2: [hemanth/functional-programming-jargon](http://bit.ly/1RxQhOT): Jargon from the functional programming world in simple terms!
 
 **[⬆ back to top](#table-of-contents)**
 
