@@ -173,6 +173,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
 - :new_moon: [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - :star2: [Thinking, Fast and Slow](http://amzn.to/1SCZOm6)
+- :full_moon: [How to ask good questions](http://bit.ly/2ik4VMZ)
 
 **[⬆ back to top](#table-of-contents)**
 
