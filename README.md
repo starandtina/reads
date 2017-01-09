@@ -208,6 +208,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :moon: [如何变得有思想？ <sub>一个敢于说真话的ITer眼中的世界</sub>](http://bit.ly/1OX60iA)
 - :moon: [How to Read a Book <sub>The Classic Guide to Intelligent Reading</sub>](http://amzn.to/1SsVuqb)
+- :new_moon: [未来世界的幸存者](https://ruanyf.github.io/survivor/)
 
 **[⬆ back to top](#table-of-contents)**
 
