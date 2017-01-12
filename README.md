@@ -135,6 +135,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :star2: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - :star2: [What Makes A Senior Software Developer?](http://bit.ly/2gHdEZX): What makes a senior developer is when you can trust them to get things done without you.
 - :star2: [左耳朵耗子：不灌鸡汤，说真的年龄渐长，技术人的发展之路该怎么走？](http://bit.ly/2j3iYn8)
+- :full_moon: [Before dive into React](http://bit.ly/2jyQjqy): Henrique Alves has a list of things you should know before using React (actually any framework).
 
 **[⬆ back to top](#table-of-contents)**
 
