@@ -17,6 +17,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   1. [Web Performance](#wpo)
   1. [Languages](#languages)
   1. [React](#react)
+  1. [Management](#management)
   1. [User Experience/Interaction Design/Usability](#ux)
   1. [Product Design](#product-design)
   1. [Art Design](#art-design)
@@ -86,6 +87,12 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Thinking in Redux (when all you’ve known is MVC)](https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133#.v54filkkd)
 - :full_moon: [How to Use jQuery Libraries in the React Ecosystem](https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.hq0hh3b0i)
 - :full_moon: [Integrating React and Datatables — not as hard as advertised <sub> integrate React with Datatables as long as you keep React out of the Datatables DOM</sub>](https://medium.com/@zbzzn/integrating-react-and-datatables-not-as-hard-as-advertised-f3364f395dfa#.s2iuhtpii)
+
+**[⬆ back to top](#table-of-contents)**
+
+## <a name='management'>Management</a>
+
+- :star2: [If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)
 
 **[⬆ back to top](#table-of-contents)**
 
