@@ -114,6 +114,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Product Design for the Web <sub>Principles of Designing and Releasing Web Products</sub>](http://amzn.to/1M1Xxem)
 - :new_moon: [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
 - :star2: [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
+- :star2: [Design Better Forms <sub>Common mistakes designers make and how to fix them</sub>](https://uxdesign.cc/design-better-forms-96fadca0f49c#.2gn0wwm5p)
 
 **[⬆ back to top](#table-of-contents)**
 
