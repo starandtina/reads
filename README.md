@@ -81,12 +81,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='react'>React</a>
 
-- :star2: [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.3n1is9sod)
-- :star2: [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.bhg0iefbm)
-- :star2: [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.l0xis2l65)
-- :full_moon: [Thinking in Redux (when all you’ve known is MVC)](https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133#.v54filkkd)
-- :full_moon: [How to Use jQuery Libraries in the React Ecosystem](https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.hq0hh3b0i)
-- :full_moon: [Integrating React and Datatables — not as hard as advertised <sub> integrate React with Datatables as long as you keep React out of the Datatables DOM</sub>](https://medium.com/@zbzzn/integrating-react-and-datatables-not-as-hard-as-advertised-f3364f395dfa#.s2iuhtpii)
 
 **[⬆ back to top](#table-of-contents)**
 
