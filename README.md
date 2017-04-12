@@ -76,6 +76,8 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :star2: [Why is viewport in a meta tag?](http://bit.ly/2iOEBrA)
 - :star2: [hemanth/functional-programming-jargon](http://bit.ly/1RxQhOT): Jargon from the functional programming world in simple terms!
 - :star2: [JavaScript Promise <sub>In Javascript, promises are objects which represent the pending result of an asynchronous operation.</sub>](https://martinfowler.com/bliki/JavascriptPromise.html)
+- :new_moon: [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial): Bash 教程
+- :new_moon: [Idnan/bash-guide](https://github.com/Idnan/bash-guide): A guide to learn bash
 
 **[⬆ back to top](#table-of-contents)**
 
