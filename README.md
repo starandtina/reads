@@ -16,7 +16,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
   1. [Web Performance](#wpo)
   1. [Languages](#languages)
-  1. [React/Redux](#react)
+  1. [React/Redux](#react-redux)
   1. [Management](#management)
   1. [User Experience/Interaction Design/Usability](#ux)
   1. [Product Design](#product-design)
@@ -78,15 +78,18 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :star2: [JavaScript Promise <sub>In Javascript, promises are objects which represent the pending result of an asynchronous operation.</sub>](https://martinfowler.com/bliki/JavascriptPromise.html)
 - :new_moon: [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial): Bash 教程
 - :new_moon: [Idnan/bash-guide](https://github.com/Idnan/bash-guide): A guide to learn bash
+- :new_moon: [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS): A book about functional programming in JavaScript.
 
 **[⬆ back to top](#table-of-contents)**
 
-## <a name='react'>React/Redux</a>
+## <a name='react-redux'>React/Redux</a>
 
 - :star2: [react-bits](https://github.com/vasanthk/react-bits): ✨ React patterns, techniques, tips and tricks ✨ https://vasanthk.gitbooks.io/react-bits
 - :full_moon: [react-in-patterns](https://github.com/krasimir/react-in-patterns): 📚 List of design patterns/techniques used while developing with React
 - :full_moon: [reactpatterns.com](https://github.com/chantastic/reactpatterns.com): Patterns for React Developers http://reactpatterns.com
 - :waxing_crescent_moon: [The Complete Redux Book](https://leanpub.com/redux-book/read): Learn everything you need to use Redux to build complex and production-ready web applications
+- :new_moon: [reactjs/react-basic](https://github.com/reactjs/react-basic): A description of the conceptual model of React without implementation burden.
+- :new_moon: [wangdoc/react-tutorial](https://github.com/wangdoc/react-tutorial): react 教程
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -148,6 +151,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :star2: [What Makes A Senior Software Developer?](http://bit.ly/2gHdEZX): What makes a senior developer is when you can trust them to get things done without you.
 - :star2: [左耳朵耗子：不灌鸡汤，说真的年龄渐长，技术人的发展之路该怎么走？](http://bit.ly/2j3iYn8)
 - :full_moon: [Before dive into React](http://bit.ly/2jyQjqy): Henrique Alves has a list of things you should know before using React (actually any framework).
+- :new_moon: [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): Design Patterns for Humans™ - An ultra-simplified explanation
 
 **[⬆ back to top](#table-of-contents)**
 
