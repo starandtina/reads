@@ -79,6 +79,9 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial): Bash 教程
 - :new_moon: [Idnan/bash-guide](https://github.com/Idnan/bash-guide): A guide to learn bash
 - :new_moon: [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS): A book about functional programming in JavaScript.
+- :new_moon: [grab/front-end-guide](https://github.com/grab/front-end-guide): 📚 Study guide and introduction to the modern front end stack.
+- :new_moon: [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
+- :full_moon: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017.
 
 **[⬆ back to top](#table-of-contents)**
 
