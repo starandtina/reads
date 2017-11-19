@@ -1,3 +1,7 @@
+# Deprecation Warning
+
+I had moved it into [another repo](https://github.com/starandtina/The-Terrible-Front-End-List) and compiled my favirate reads, artciles, links together. :)
+
 # Reads
 
 > :books: A list of physical books I own or want to read.
